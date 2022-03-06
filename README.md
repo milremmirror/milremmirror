@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**milremmirror/milremmirror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Diogo de Souza
+### Desenvolvedor Java 🖥💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### About:
+
+<p align="left" margin-left="10px"> 
+
+- 🌱 Buscando oportunidade de estágio.
+- 📚 No momento estou estudando: Spring boot e Spring Framework
+- 📘 Praticando conhecimentos aprendidos todos os dias
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas - SENAC.
+
+
+
+<br>
+
+### Skills:
+
+<p align="left" margin-left="10px">
+- 🧩 Minhas Stack: Java e Git, </strong> <br>
+- ⚙ Conhecimento em Tecnologias como: <strong>Scrum </strong> <br>
+- 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong>  <br>
+- 🛠 Conhecimento em Framework: <strong>Spring</strong> <br>
+- 🧩 Ferramenta de prototipação: <strong>Figma</strong>
+</p>
+
+<br/>
+<br/>
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/iuricode/)
