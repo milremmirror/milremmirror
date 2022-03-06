@@ -1,3 +1,4 @@
+<img align="right" width="440" height="700" right="0px" src="https://i.imgur.com/JP3yOzm.gif">
 
 # Diogo de Souza
 ### Desenvolvedor Java 🖥💻
