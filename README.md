@@ -25,8 +25,9 @@
 - ⚙ Conhecimento em Tecnologias como: <strong>Scrum </strong> <br>
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong>  <br>
 - 🛠 Conhecimento em Framework: <strong>Spring</strong> <br>
-- 🧩 Ferramenta de prototipação: <strong>Figma</strong>
 </p>
+
+
 
 <br/>
 <br/>
