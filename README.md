@@ -32,5 +32,5 @@
 <br/>
 <br/>
 
-[![milremmirror](https://github-readme-stats.vercel.app/api/top-langs/?username=milremmirror&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/milrremmirror/)
+[![milremmirror](https://github-readme-stats.vercel.app/api/top-langs/?username=milremmirror&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/milremmirror)
 
