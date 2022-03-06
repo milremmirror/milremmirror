@@ -19,7 +19,7 @@
 ### Skills:
 
 <p align="left" margin-left="10px">
-- 🧩 Minhas Stack: Java e Git, </strong> <br>
+- 🧩 Minhas Stacks: Java e Git, </strong> <br>
 - ⚙ Conhecimento em Tecnologias como: <strong>Scrum, PHP, CSS, JavaScript </strong> <br>
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong>  <br>
 - 🛠 Conhecimento em Framework: <strong>Spring</strong> <br>
