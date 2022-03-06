@@ -6,18 +6,14 @@
 <br>
 
 ### About:
-
 <p align="left" margin-left="10px"> 
-
 - 🌱 Buscando oportunidade de estágio.
 - 📚 Estudando: Spring boot e Spring Framework
 - 📘 Praticando conhecimentos aprendidos todos os dias
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - SENAC.
 
 <br>
-
 ### Skills:
-
 <p align="left" margin-left="10px">
 - 🧩 Minhas Stacks: Java e Git, </strong> <br>
 - ⚙ Conhecimento em Tecnologias como: <strong>Scrum, PHP, CSS, JavaScript </strong> <br>
