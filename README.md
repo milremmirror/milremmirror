@@ -8,8 +8,8 @@
 ### About:
 <p align="left" margin-left="10px"> 
 - 🌱 Buscando oportunidade de estágio.
-- 📚 Estudando: Spring boot e Spring Framework
-- 📘 Praticando conhecimentos aprendidos todos os dias
+- 📚 Estudando: Spring Framework
+- 📘 Praticando todos os dias
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - SENAC.
 
 <br>
