@@ -29,5 +29,5 @@
 <br/>
 <br/>
 
-[![milremmirror](https://github-readme-stats.vercel.app/api/top-langs/?username=milremmirror&hide=html&layout=compact&theme=tokyonight)](https://github.com/milremmirror/)
+[![milremmirror](https://github-readme-stats.vercel.app/api/top-langs/?username=milremmirror&hide=html&layout=compact&theme=radical)](https://github.com/milremmirror/)
 
