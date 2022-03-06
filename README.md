@@ -25,7 +25,6 @@
 - ⚙ Conhecimento em Tecnologias como: <strong>Scrum, PHP, CSS, JavaScript </strong> <br>
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong>  <br>
 - 🛠 Conhecimento em Framework: <strong>Spring</strong> <br>
-- 
 </p>
 
 
