@@ -3,7 +3,6 @@
 # Diogo de Souza
 ### Desenvolvedor Java 🖥💻
 
-
 <br>
 
 ### About:
@@ -15,8 +14,6 @@
 - 📘 Praticando conhecimentos aprendidos todos os dias
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - SENAC.
 
-
-
 <br>
 
 ### Skills:
@@ -27,8 +24,6 @@
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong>  <br>
 - 🛠 Conhecimento em Framework: <strong>Spring</strong> <br>
 </p>
-
-
 
 <br/>
 <br/>
