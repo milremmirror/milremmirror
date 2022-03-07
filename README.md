@@ -13,6 +13,7 @@
 - 📚 Estudando: Spring Framework
 - 📘 Praticando todos os dias
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - SENAC.
+- 🎓 Good english level.
 
 <p/>
 <br>
@@ -21,10 +22,22 @@
   
 <p align="left" margin-left="10px">
   
-- 🧩 Minhas Stacks: Java e Git, </strong> <br>
-- ⚙ Conhecimento em Tecnologias como: <strong>Scrum, PHP, CSS, JavaScript </strong> <br>
+- 🧩 Conhecimentos em <strong>Java</strong> <br>
+- ⚙ Conhecimento em Metodologia ágil: <strong>Scrum, PHP, CSS, JavaScript </strong> <br>
+- 🧩 Conhecimentos na ferramenta de versionamento <strong>Git</strong> <br>
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong>  <br>
 - 🛠 Conhecimento em Framework: <strong>Spring</strong> <br>
+</p>
+
+
+### Intrest:
+  
+<p align="left" margin-left="10px">
+  
+- 🧩 <strong>Kotlin</strong> <br>
+- ⚙ <strong>Mobile</strong>
+- 🧩 <strong>JavaScript</strong>
+
 </p>
 
 
