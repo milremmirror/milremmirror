@@ -9,7 +9,7 @@
 
 <p align="left" margin-left="10px"> 
   
-- 🌱 Buscando oportunidade de estágio.
+- 🌱 Desenvolvedor jr.
 - 📚 Estudando: Spring Framework
 - 📘 Praticando todos os dias
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - SENAC.
