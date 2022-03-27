@@ -9,8 +9,8 @@
 
 <p align="left" margin-left="10px"> 
   
-- 🌱 Desenvolvedor jr.
-- 📚 Estudando: Spring Framework
+- 🌱 Desenvolvedor em formação
+- 📚 Estudando: Spring Framework, Node.js e React
 - 📘 Praticando todos os dias
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - SENAC.
 - 🎓 Good english level.
@@ -22,22 +22,10 @@
   
 <p align="left" margin-left="10px">
   
-- 🧩 Conhecimentos em <strong>Java</strong> <br>
-- ⚙ Conhecimento em Metodologia ágil: <strong>Scrum, PHP, CSS, JavaScript </strong> <br>
-- 🧩 Conhecimentos na ferramenta de versionamento <strong>Git</strong> <br>
-- 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong>  <br>
-- 🛠 Conhecimento em Framework: <strong>Spring</strong> <br>
-</p>
-
-
-### Intrest:
-  
-<p align="left" margin-left="10px">
-  
-- 🧩 <strong>Kotlin</strong> <br>
-- ⚙ <strong>Mobile</strong>
-- 🧩 <strong>JavaScript</strong>
-
+- 🧩Stacks: <strong>Java, JavaScript</strong> <br>
+- ⚙ Conhecimento em Metodologia ágil: <strong>Scrum</strong> <br>
+- 🛢 Conhecimento em Banco de Dados: <strong>MySQL, MongoDB</strong>  <br>
+- 🛠 Conhecimento em Framework: <strong>Spring boot</strong> <br>
 </p>
 
 
@@ -45,4 +33,3 @@
 <br/>
 
 [![milremmirror](https://github-readme-stats.vercel.app/api/top-langs/?username=milremmirror&hide=html&layout=compact&theme=radical)](https://github.com/milremmirror/)
-
