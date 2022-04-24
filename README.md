@@ -10,8 +10,7 @@
 <p align="left" margin-left="10px"> 
   
 - 🌱 Desenvolvedor em formação
-- 📚 Estudando: Spring Framework, Node.js e React
-- 📘 Praticando todos os dias
+- 📚 Estudando: Salesforce Development
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - SENAC.
 - 🎓 Good english level.
 
@@ -25,7 +24,6 @@
 - 🧩Stacks: <strong>Java, JavaScript</strong> <br>
 - ⚙ Conhecimento em Metodologia ágil: <strong>Scrum</strong> <br>
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL, MongoDB</strong>  <br>
-- 🛠 Conhecimento em Framework: <strong>Spring boot</strong> <br>
 </p>
 
 
